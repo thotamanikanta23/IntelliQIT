@@ -1,3 +1,9 @@
 Test Commit from local repo
 
 .gitignore file from local test
+<<<<<<< HEAD
+=======
+
+
+master branch
+>>>>>>> dev
